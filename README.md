@@ -66,15 +66,44 @@ Panels (tabs)
 ----------
 
 1. DATA & FREQUENCY
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" />
+   
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif"   
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;"  />
+
 2. TREEMAP
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" />
-3. WORD RELATIONSHIPS 
-<img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" />
-4. ML (NAIVE BAYES)  
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/predict.gif" /> 
+   
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif"   
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;"  />
+
+3. WORD RELATIONSHIPS
+   
+<img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" 
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;"  />
+
+4. ML (NAIVE BAYES)
+   
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/predict.gif"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;"  />
+
 Controls  
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/controls.gif" />
+
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/controls.gif"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;"  />
 
 How to use
 ----------
