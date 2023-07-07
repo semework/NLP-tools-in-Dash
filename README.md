@@ -4,7 +4,7 @@
 
 ### About this app   
 #### *NLP analysis in a single app. 11 figures, dropdown and slider analysis controls, ML training and classification*
-<img src="../NLP-tools-in-Dash/assets/images/start.gif" 
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" 
 style="display: block;
   margin-left: auto;
   margin-right: auto;
@@ -51,7 +51,7 @@ Features
 Algorithm steps
 ----------
  
-<img src="../NLP-tools-in-Dash/assets/images/processing_steps.png" style="display: block;
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/processing_steps.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;" />  
@@ -63,8 +63,9 @@ Panels (tabs)
 3. WORD RELATIONSHIPS - Basket analysis (netowrk and heatmap), top 5 word relationships. Calculated from lemmatized word co-occurence
 4. ML (NAIVE BAYES) - detailed freqency distribution for all categories, train and predict words using multinomina naive bayes
 
-<img src="../NLP-tools-in-Dash/assets/images/start.gif" width="600px"/>  &nbsp;&nbsp;  <img src="../NLP-tools-in-Dash/assets/images/wordR.gif" width="600px"/>   
-<img src="../NLP-tools-in-Dash/assets/images/treemap.gif" width="600px"/>  &nbsp;&nbsp; <img src="../NLP-tools-in-Dash/assets/images/train_and_predict.gif" width="600px"/> 
+ 
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" width="600px"/>  &nbsp;&nbsp;  <img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" width="600px"/>   
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" width="600px"/>  &nbsp;&nbsp; <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/train_and_predict.gif" width="600px"/> 
 
 How to use
 ----------
