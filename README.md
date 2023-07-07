@@ -65,7 +65,7 @@ Panels (tabs)
 
  
 <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" width="600px"/>  &nbsp;&nbsp;  <img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" width="600px"/>   
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" width="600px"/>  &nbsp;&nbsp; <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/train_and_predict.gif" width="600px"/> 
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" width="600px"/>  &nbsp;&nbsp; <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/predict.gif" width="600px"/> 
 
 How to use
 ----------
