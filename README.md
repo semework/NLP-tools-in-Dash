@@ -83,7 +83,7 @@ Panels (tabs)
 
 3. WORD RELATIONSHIPS
    
-<img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" 
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" 
   style="display: block;
   margin-left: auto;
   margin-right: auto;
