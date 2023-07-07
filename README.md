@@ -51,10 +51,11 @@ Features
 Algorithm steps
 ----------
  
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/processing_steps.png" style="display: block;
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/processing_steps.png" 
+  style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;" />  
+  width: 85%;" />  
 
 Panels (tabs)
 ----------
@@ -63,9 +64,10 @@ Panels (tabs)
 3. WORD RELATIONSHIPS - Basket analysis (netowrk and heatmap), top 5 word relationships. Calculated from lemmatized word co-occurence
 4. ML (NAIVE BAYES) - detailed freqency distribution for all categories, train and predict words using multinomina naive bayes
 
- 
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" width="600px"/>  &nbsp;&nbsp;  <img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" width="600px"/>   
-<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" width="600px"/>  &nbsp;&nbsp; <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/predict.gif" width="600px"/> 
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" />
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" />
+<img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" />   
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/predict.gif" /> 
 
 How to use
 ----------
@@ -97,7 +99,7 @@ Dash is running on http://127.0.0.1:9132/
  * Serving Flask app 'nlp_dash_tool'
  * Debug mode: on
 ```
- 
+
 And if you press "Run model" in "ML (NAIVE BAYES)" tab ~this shows up:
 
 ```
