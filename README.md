@@ -63,11 +63,18 @@ Panels (tabs)
 2. TREEMAP - Treemap of headline length distributions
 3. WORD RELATIONSHIPS - Basket analysis (netowrk and heatmap), top 5 word relationships. Calculated from lemmatized word co-occurence
 4. ML (NAIVE BAYES) - detailed freqency distribution for all categories, train and predict words using multinomina naive bayes
+----------
 
+1. DATA & FREQUENCY
 <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/start.gif" />
+2. TREEMAP
 <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/treemap.gif" />
-<img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" />   
+3. WORD RELATIONSHIPS 
+<img src="[https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/wordR.gif" />
+4. ML (NAIVE BAYES)  
 <img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/predict.gif" /> 
+Controls  
+<img src="https://github.com/semework/NLP-tools-in-Dash/blob/main/assets/images/controls.gif" />
 
 How to use
 ----------
